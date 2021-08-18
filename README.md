@@ -1,2 +1,2 @@
 # Tic-tac-toe-Game
-This  game is created using python 
+Used Tkinter GUI method to create a Tic-tac-toe game as my first mini project.
